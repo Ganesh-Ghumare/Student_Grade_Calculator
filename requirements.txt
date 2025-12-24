@@ -1,1 +1,1 @@
-no any external libraries are sed by me in this code 
+no any external libraries are used by me in this code 
